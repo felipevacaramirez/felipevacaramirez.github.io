@@ -1,5 +1,5 @@
 # About this page
-This is page a will be used as a notebook of my process of understanding and testing ideas.
+This is page will be used as a notebook of my process of understanding and testing ideas.
 
 # About Me
 I am Felipe Vaca-Ramírez, a PhD student of Network Science at Central European University. I am interested in Network Science, Statistical Inference, and Applied Statistics.
