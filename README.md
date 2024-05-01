@@ -12,6 +12,7 @@ Vaca-Ramírez, F., & Peixoto, T. P. (2022). Systematic assessment of the quality
 [arXiv](https://arxiv.org/abs/2201.01658)
 
 # Talks
+NetSci 2023. Reconstruction performance of the stochastic block model (SBM) in empirical networks.
+
 NetSci 2022. Systematic assessment of the quality of fit of the stochastic block model for empirical network data.
 
-NetSci 2023. Reconstruction performance of the stochastic block model (SBM) in empirical networks.
