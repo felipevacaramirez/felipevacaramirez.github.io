@@ -11,7 +11,9 @@ Another direction points to learning the nuances in the study of social phenomen
 I would like to collaborate with other researchers to obtain insights from social problems in a statistically principled way, harnessing the robust methodological framework of SBMs.
 
 # Publications
-Vaca-Ramírez, F., & Peixoto, T. P. (2022). Systematic assessment of the quality of fit of the stochastic block model for empirical networks. Phys. Rev. E 105, 054311 (2022).
+*Systematic assessment of the quality of fit of the stochastic block model for empirical networks.*  \
+Felipe Vaca-Ramírez, Tiago P. Peixoto \
+Phys. Rev. E 105, 054311 (2022) \
 [paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.054311)
 [arXiv](https://arxiv.org/abs/2201.01658)
 
