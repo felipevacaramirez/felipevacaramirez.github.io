@@ -18,9 +18,7 @@ Phys. Rev. E 105, 054311 (2022) <br>
 
 
 # Talks
-- NetSci 2023. *Reconstruction performance of the stochastic block model (SBM) in empirical networks.* (![slides](slides/slides_NetSci_2023.pdf)) <br>
-
-<a href="slides/slides_NetSci_2023.pdf">mypdf</a> <br>
+- NetSci 2023. *Reconstruction performance of the stochastic block model (SBM) in empirical networks.* <a href="slides/slides_NetSci_2023.pdf">(slides)</a> <br>
 
 **Abstract:** We assess the performance of the stochastic block model (SBM) in
 reconstructing 248 empirical networks spanning several domains and
@@ -36,7 +34,8 @@ a high abundance of triangles. We also demonstrate that incorporating a
 more detailed error assessment while doing measurement tends to improve
 the quality of the reconstruction.  
   
-- NetSci 2022. *Systematic assessment of the quality of fit of the stochastic block model for empirical network data.*  ([slides](https://github.com/felipevacaramirez/felipevacaramirez.github.io/blob/577f404fa2ad5f403880083c71f775d9d4443052/slides/slides_NetSci_2022.pdf)) <br>
+- NetSci 2022. *Systematic assessment of the quality of fit of the stochastic block model for empirical network data.*  <a href="slides/slides_NetSci_2022.pdf">(slides)</a> <br>
+
 **Abstract:** We perform a systematic analysis of the quality of fit of the
   stochastic block model (SBM) for 275 empirical networks spanning a
   wide range of domains and orders of size magnitude. We employ
