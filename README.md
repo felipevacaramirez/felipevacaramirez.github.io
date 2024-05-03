@@ -6,18 +6,15 @@ My current research consists on studying the capabilities and limitations of com
 In the future, I would like to learn more about statistical network models and its applications to social sciences. 
 One direction points to understanding assumptions or biases in community detection models, and features of social phenomena that are not being captured by these tools. 
 Another direction points to learning the nuances in the study of social phenomena. One needs to acknowledge and identify potential errors and biases in the data collection process to correctly account for in the modelling process. 
-I would also like to collaborate with other researchers to study from social problems in a statistically principled way. I believe that we can harnessing the robust methodological framework of SBMs to obtain insights on such kind of problems.
+I would also like to collaborate with other researchers to study from social problems in a statistically principled way. I believe that we can harness the robust methodological framework of SBMs to obtain insights on such kind of problems.
 
 
 # Publications
-- *Systematic assessment of the quality of fit of the stochastic block model for empirical networks.*  \
-Felipe Vaca-Ramírez, Tiago P. Peixoto \
-Phys. Rev. E 105, 054311 (2022) \
+- *Systematic assessment of the quality of fit of the stochastic block model for empirical networks.* <br>
+Felipe Vaca-Ramírez, Tiago P. Peixoto <br>
+Phys. Rev. E 105, 054311 (2022) <br>
 [paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.054311)
 [arXiv](https://arxiv.org/abs/2201.01658)
-
-
-
 
 
 # Talks
