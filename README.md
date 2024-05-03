@@ -19,7 +19,7 @@ Phys. Rev. E 105, 054311 (2022) <br>
 
 # Talks
 - NetSci 2023. *Reconstruction performance of the stochastic block model (SBM) in empirical networks.* (![slides](slides/slides_NetSci_2023.pdf)) <br>
-[slides](<a href="slides/slides_NetSci_2023.pdf"></a>
+[slides](<a href="slides/slides_NetSci_2023.pdf"></a>)
 
 
 **Abstract:** We assess the performance of the stochastic block model (SBM) in
