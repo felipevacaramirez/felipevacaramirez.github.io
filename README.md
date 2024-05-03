@@ -12,7 +12,7 @@ I would like to collaborate with other researchers to obtain insights from socia
 
 # Publications
 Vaca-Ramírez, F., & Peixoto, T. P. (2022). Systematic assessment of the quality of fit of the stochastic block model for empirical networks. Phys. Rev. E 105, 054311 (2022).
-[DOI: 10.1103/PhysRevE.105.054311](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.054311)
+[paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.054311)
 [arXiv](https://arxiv.org/abs/2201.01658)
 
 
