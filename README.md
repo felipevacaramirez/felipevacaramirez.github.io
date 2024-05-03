@@ -5,7 +5,6 @@ My current research consists on studying the capabilities and limitations of com
 
 In the future, I would like to learn more about statistical network models and its applications to social sciences. 
 One direction points to understanding assumptions or biases in the community detection models, and features of social phenomena that are not being captured by these tools.
-
 Another direction points to learning the nuances in the study of social phenomena. One needs to acknowledge and identify potential errors and biases in the data collection process to correctly account for in the modelling process. 
 
 I would like to collaborate with other researchers to obtain insights from social problems in a statistically principled way, harnessing the robust methodological framework of SBMs.
@@ -37,7 +36,8 @@ a high abundance of triangles. We also demonstrate that incorporating a
 more detailed error assessment while doing measurement tends to improve
 the quality of the reconstruction.  
   
-- NetSci 2022. *Systematic assessment of the quality of fit of the stochastic block model for empirical network data.*  (![slides](/slides/slides_NetSci_2022.pdf)) \
+- NetSci 2022. *Systematic assessment of the quality of fit of the stochastic block model for empirical network data.*  (![slides](/slides/slides_NetSci_2022.pdf))
+s
 **Abstract:** We perform a systematic analysis of the quality of fit of the
   stochastic block model (SBM) for 275 empirical networks spanning a
   wide range of domains and orders of size magnitude. We employ
