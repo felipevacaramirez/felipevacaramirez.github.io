@@ -32,7 +32,7 @@ more detailed error assessment while doing measurement tends to improve
 the quality of the reconstruction.  
   
 NetSci 2022. Systematic assessment of the quality of fit of the stochastic block model for empirical network data.
-## Abstract: 
+## Abstract [slides](slides/slides_NetSci_2022): 
 We perform a systematic analysis of the quality of fit of the
   stochastic block model (SBM) for 275 empirical networks spanning a
   wide range of domains and orders of size magnitude. We employ
