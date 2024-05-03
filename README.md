@@ -15,9 +15,8 @@ Vaca-Ramírez, F., & Peixoto, T. P. (2022). Systematic assessment of the quality
 [arXiv](https://arxiv.org/abs/2201.01658)
 
 # Talks
-NetSci 2023. *Reconstruction performance of the stochastic block model (SBM) in empirical networks.*
-**Abstract:** (![slides](/slides/slides_NetSci_2023.pdf)) \
-We assess the performance of the stochastic block model (SBM) in
+NetSci 2023. *Reconstruction performance of the stochastic block model (SBM) in empirical networks.* (![slides](/slides/slides_NetSci_2023.pdf)) \
+**Abstract:** We assess the performance of the stochastic block model (SBM) in
 reconstructing 248 empirical networks spanning several domains and
 orders of size magnitude. We simulate a noisy measurement process and
 evaluate the model's ability at recovering various descriptors of the
@@ -31,8 +30,8 @@ a high abundance of triangles. We also demonstrate that incorporating a
 more detailed error assessment while doing measurement tends to improve
 the quality of the reconstruction.  
   
-NetSci 2022. *Systematic assessment of the quality of fit of the stochastic block model for empirical network data.*
-**Abstract:** (![slides](/slides/slides_NetSci_2022.pdf)) \
+NetSci 2022. *Systematic assessment of the quality of fit of the stochastic block model for empirical network data.*  (![slides](/slides/slides_NetSci_2022.pdf)) \
+**Abstract:** \
 We perform a systematic analysis of the quality of fit of the
   stochastic block model (SBM) for 275 empirical networks spanning a
   wide range of domains and orders of size magnitude. We employ
