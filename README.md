@@ -11,8 +11,13 @@ Another direction points to learning the nuances in the study of social phenomen
 I would like to collaborate with other researchers to obtain insights from social problems in a statistically principled way, harnessing the robust methodological framework of SBMs.
 
 # Publications
-Vaca-Ramírez, F., & Peixoto, T. P. (2022). Systematic assessment of the quality of fit of the stochastic block model for empirical networks. 
+Vaca-Ramírez, F., & Peixoto, T. P. (2022). Systematic assessment of the quality of fit of the stochastic block model for empirical networks. Phys. Rev. E 105, 054311 (2022).
+[DOI: 10.1103/PhysRevE.105.054311] (https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.054311)
 [arXiv](https://arxiv.org/abs/2201.01658)
+
+
+
+
 
 # Talks
 NetSci 2023. *Reconstruction performance of the stochastic block model (SBM) in empirical networks.* (![slides](/slides/slides_NetSci_2023.pdf)) \
@@ -31,8 +36,7 @@ more detailed error assessment while doing measurement tends to improve
 the quality of the reconstruction.  
   
 NetSci 2022. *Systematic assessment of the quality of fit of the stochastic block model for empirical network data.*  (![slides](/slides/slides_NetSci_2022.pdf)) \
-**Abstract:** \
-We perform a systematic analysis of the quality of fit of the
+**Abstract:** We perform a systematic analysis of the quality of fit of the
   stochastic block model (SBM) for 275 empirical networks spanning a
   wide range of domains and orders of size magnitude. We employ
   posterior predictive model checking as a criterion to assess the
