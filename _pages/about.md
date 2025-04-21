@@ -24,8 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Researcher and Data Scientist with 10 years of experience in data analysis and 5 years in academic research. During my PhD, I developed strong skills in analyzing, modeling, visualizing, predicting, and validating \textit{networks} (graphs).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In addition, I am familiar with methodologies for analyzing various types of data --cross-sectional, temporal, and spatial-- which I have applied in previous roles as a data scientist and consultant for both public institutions and private companies.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Throughout my career, I have refined the ability to translate complex real-world problems into structured analytical projects. Furthermore, my experience teaching and presenting findings at conferences has contributed to communicate ideas clearly and meaningfully to different audiences. I place a strong emphasis on understanding both the capabilities and limitations of the tools I use, as well as ensuring the quality and integrity of the data I work with.
+
+I have expertise in Python, R, and modern statistical and data science workflows.
