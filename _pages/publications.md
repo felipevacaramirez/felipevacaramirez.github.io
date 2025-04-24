@@ -18,7 +18,7 @@ nav_order: 2
 
 {% bibliography %}
 
-In preparation:
+<p><strong>In preparation:</strong></p>
 {% bibliography_prep %}
 
 </div>
