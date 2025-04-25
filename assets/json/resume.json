@@ -52,11 +52,11 @@
   ],
   "skills": [
     {
-      "name": "computer languages/frameworks",
-      "level": "",
+      "name": "Computer languages/frameworks",
+      "level": "Master",
       "icon": "",
       "keywords": [
-        "Python (scikit-learn, Pandas, NumPy, graph-tool, networkx)", 
+        "Python (scikit-learn, Pandas, NumPy, graph-tool)", 
         "R", 
         "QGIS (maps)", 
         "Git (version control)", 
