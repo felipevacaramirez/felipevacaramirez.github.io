@@ -4,7 +4,7 @@ title: Spectacled bear in Ecuador
 description: In collaboration with Wilson Moreno (UDLA)
 img: 
 importance: 1
-category: visualization
+category: visualizations
 related_publications: false
 ---
 
