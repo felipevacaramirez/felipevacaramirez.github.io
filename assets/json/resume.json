@@ -68,7 +68,6 @@
   "teaching": [
     {
       "institution": "Central European University",
-      "location": "Vienna, Austria",
       "area": "Teaching Assistant",
       "studyType": "Data and Network Visualization",
       "startDate": "2024",
@@ -76,7 +75,6 @@
     },
     {
       "institution": "Central European University",
-      "location": "Vienna, Austria",
       "area": "Teaching Assistant",
       "studyType": "Introduction to Programming in Python",      
       "startDate": "2021",
