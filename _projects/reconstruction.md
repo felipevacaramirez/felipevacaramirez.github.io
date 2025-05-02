@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reconstruction performance of the SBM in empirical networks.
+title: Reconstruction performance of the SBM in empirical networks
 description: 
 img: 
 importance: 2
@@ -22,5 +22,5 @@ a high abundance of triangles. We also demonstrate that incorporating a
 more detailed error assessment while doing measurement tends to improve
 the quality of the reconstruction.
 
-The results of this project were presented in NetSci 2023. The slides are available in the following <a href="/assets/pdf/Vaca_slides_NetSci_2023.pdf">LINK</a> <br>
+The results of this project were presented in NetSci 2023. The slides are available in the following <a href="/assets/pdf/Vaca_slides_NetSci_2023.pdf">LINK</a> <br>.
 
