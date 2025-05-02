@@ -93,7 +93,7 @@
       "location": "Vienna, Austria",
       "area": "Teaching Assistant",
       "studyType": "Data and Network Visualization",
-      "startDate": "Winter 2024",
+      "startDate": "2024",
       "endDate": ""
     },
     {
@@ -101,9 +101,8 @@
       "location": "Vienna, Austria",
       "area": "Teaching Assistant",
       "studyType": "Introduction to Programming in Python",      
-      "startDate": "Fall 2021",
+      "startDate": "2021",
       "endDate": ""
     }
-
   ]  
 }
