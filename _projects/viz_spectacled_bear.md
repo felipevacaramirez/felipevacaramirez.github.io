@@ -20,9 +20,13 @@ The poster can be found in the following <a href="/assets/pdf/Moreno_Vaca_Data_S
 
  
 **References**:
-[1] Spectacled bear, https://en.wikipedia.org/w/index.php?title=Spectacled_bear&oldid=1181852162 (last visited Nov. 1, 2023). 
+
+[1] Spectacled bear, https://en.wikipedia.org/w/index.php?title=Spectacled_bear&oldid=1181852162 (last visited Nov. 1, 2023).
+   
 [2] Data source: Tremarctos ornatus (F.G.Cuvier, 1825) in GBIF Secretariat. GBIF Backbone Taxonomy. Checklist dataset https://doi.org/10.15468/39omei accessed via GBIF.org on 2023-11-02.
-[3] Steven J. Phillips, Miroslav Dudík, Robert E. Schapire. [Internet] Maxent software for modeling species niches and distributions (Version 3.4.1). Available from url: http://biodiversityinformatics.amnh.org/open_source/maxent/. 
+   
+[3] Steven J. Phillips, Miroslav Dudík, Robert E. Schapire. [Internet] Maxent software for modeling species niches and distributions (Version 3.4.1). Available from url: http://biodiversityinformatics.amnh.org/open_source/maxent/.
+   
 [4] The compass was modified from https://www.freepik.com/free-vector/compass-design_917013.htm#query=north%20arrow&position=0&from_view=keyword&track=ais">Image by evasplace on Freepik
-
-
+   
+   
