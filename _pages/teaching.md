@@ -2,12 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-- **Teaching Assistant**. Central European University - Austria. Course: *Data and Network Visualization*. Winter Term 2023/2024.
+- **Teaching Assistant**. Central European University - Austria.
+    Course: *Data and Network Visualization*.
+    Winter Term 2023/2024.
 
 - **Teaching Assistant**. Central European University - Austria. Course: *Introduction to Programming in Python*. Fall Term 2021/2022.
 
