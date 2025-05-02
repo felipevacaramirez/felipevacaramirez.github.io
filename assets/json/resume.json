@@ -65,22 +65,6 @@
       ]
     }
   ],
-  "teaching": [
-    {
-      "institution": "Central European University",
-      "area": "Teaching Assistant",
-      "studyType": "Data and Network Visualization",
-      "startDate": "2024",
-      "endDate": ""
-    },
-    {
-      "institution": "Central European University",
-      "area": "Teaching Assistant",
-      "studyType": "Introduction to Programming in Python",      
-      "startDate": "2021",
-      "endDate": ""
-    }
-  ],
   "languages": [
     {
       "language": "Spanish",
