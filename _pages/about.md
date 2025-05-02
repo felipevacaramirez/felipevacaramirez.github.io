@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Researcher and Data Scientist with 10 years of experience in data analysis and 5 years in academic research. During my PhD, I developed strong skills in analyzing, modeling, visualizing, predicting, and validating \textit{networks} (graphs).
+I am a Researcher and Data Scientist with 10 years of experience in data analysis and 5 years in academic research. During my PhD, I developed strong skills in analyzing, modeling, visualizing, predicting, and validating *networks* (graphs).
 
 In addition, I am familiar with methodologies for analyzing various types of data --cross-sectional, temporal, and spatial-- which I have applied in previous roles as a data scientist and consultant for both public institutions and private companies.
 
