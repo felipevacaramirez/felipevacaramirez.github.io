@@ -86,5 +86,24 @@
       "fluency": "A1",
       "icon": ""
     }
-  ]
+  ],
+  "Teaching": [
+    {
+      "institution": "Central European University",
+      "location": "Vienna, Austria",
+      "area": "Teaching Assistant",
+      "studyType": "Data and Network Visualization",
+      "startDate": "Winter 2024",
+      "endDate": ""
+    },
+    {
+      "institution": "Central European University",
+      "location": "Vienna, Austria",
+      "area": "Teaching Assistant",
+      "studyType": "Introduction to Programming in Python",      
+      "startDate": "Fall 2021",
+      "endDate": ""
+    }
+
+  ]  
 }
