@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Systematic assessment of the quality of fit of the stochastic block model for empirical network data
+title: Systematic assessment of the quality of fit of the SBM for empirical network data
 description: 
 img: 
 importance: 1
