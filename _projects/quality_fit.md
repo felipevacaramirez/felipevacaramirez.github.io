@@ -26,5 +26,5 @@ related_publications: true
   possible model extensions that can systematically improve the
   expressibility of this class of models.
 
-The results of this project were published in {% cite vaca2022systematic %} and presented in NetSci 2022. The slides are available in the following <a href="/assets/pdf/Vaca_slides_NetSci_2022.pdf">LINK</a> <br>.
+The results of this project were published in {% cite vaca2022systematic %} and presented in NetSci 2022. The slides are available in the following <a href="/assets/pdf/Vaca_slides_NetSci_2022.pdf">LINK</a>.
 
