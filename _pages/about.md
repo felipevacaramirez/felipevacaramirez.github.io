@@ -24,9 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Researcher and Data Scientist with 10 years of experience in data analysis and 5 years in academic research. During my PhD, I developed strong skills in analyzing, modeling, visualizing, predicting, and validating *networks* (graphs).
 
-In addition, I am familiar with methodologies for analyzing various types of data --cross-sectional, temporal, and spatial-- which I have applied in previous roles as a data scientist and consultant for both public institutions and private companies.
+I am an Applied Statistician specializing in demographic modeling at the International Institute for Applied Systems Analysis (IIASA), where I conduct research on global education indicators. My work uses Bayesian inference to estimate and monitor these indicators while integrating data from diverse sources and maintaining temporal coherence.
+
+During my PhD, I developed strong skills in analyzing, modeling, visualizing, predicting, and validating *networks* (graphs). In addition, I am familiar with methodologies for analyzing various types of data --cross-sectional, temporal, and spatial-- which I have applied in previous roles as a data scientist and consultant for both public institutions and private companies.
 
 Throughout my career, I have refined the ability to translate complex real-world problems into structured analytical projects. Furthermore, my experience teaching and presenting findings at conferences has contributed to communicate ideas clearly and meaningfully to different audiences. I place a strong emphasis on understanding both the capabilities and limitations of the tools I use, as well as ensuring the quality and integrity of the data I work with.
 
