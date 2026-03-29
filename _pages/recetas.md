@@ -1,7 +1,7 @@
 ---
    layout: page
    title: recetas
-   permalink: /recetas/
+   permalink: /books/
 ---
 
 [Catálogo de Recetas](/recetas/)
