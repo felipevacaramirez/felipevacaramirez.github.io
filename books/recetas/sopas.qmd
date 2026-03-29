@@ -1,0 +1,13 @@
+# Sopas, Caldos y Ceviches
+
+{{< include archivos/caldo_gallina.qmd >}}
+
+{{< include archivos/ceviche_camaron.qmd >}}
+
+{{< include archivos/encebollado.qmd >}}
+
+{{< include archivos/repe.qmd >}}
+
+{{< include archivos/sopa_acelga.qmd >}}
+
+<!-- calderada pan viejo cerveza azafrán soya, video de A. Bourdain en Puerto López -->
