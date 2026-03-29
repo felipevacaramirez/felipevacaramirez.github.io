@@ -4,4 +4,4 @@
    permalink: /recetas/
 ---
 
-[Catálogo de Recetas](/recetas/)
+[Catálogo de Recetas](books/recetas/)
